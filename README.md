@@ -1,4 +1,4 @@
-# Wi‑Fi Telemetry KPI Analytics (Public‑safe)
+# Wi‑Fi Telemetry KPI Analytics
 
 Parse synthetic Wi‑Fi telemetry (JSONL) and compute KPIs: channel utilization, client count, retries, and RSSI distribution. Great for demonstrating analysis & reporting skills.
 
